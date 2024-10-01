@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1727319664 source:c:\users\administrator\documents\pertemuan 1\src\class.cpp
+	"Class.h"
+
+1727319664 c:\users\administrator\documents\pertemuan 1\include\class.h
+
+1727321641 source:c:\users\administrator\documents\pertemuan 1\main.cpp
+	<iostream>
+	<conio.h>
+
